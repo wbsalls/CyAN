@@ -1,0 +1,15 @@
+7197767+wbsalls@users.noreply.github.com
+
+git (shows all commands)
+
+git clone
+
+git status
+git add <file.extension>
+OR git add -A (adds all ?edited? files)
+git commit -m “<comments / what you did>”
+git push
+
+git pull
+
+#did this test update work?
