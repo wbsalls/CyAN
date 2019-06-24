@@ -13,3 +13,5 @@ git push
 git pull
 
 git fetch -v --dry-run (like status, but checks remote repository)
+
+git checkout <file.extension> (reverts back to version on master branch)
