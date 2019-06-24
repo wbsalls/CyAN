@@ -1,4 +1,4 @@
-7197767+wbsalls@users.noreply.github.com
+﻿7197767+wbsalls@users.noreply.github.com
 
 git (shows all commands)
 
@@ -12,4 +12,4 @@ git push
 
 git pull
 
-#did this test update work?
+git fetch -v --dry-run (like status, but checks remote repository)
